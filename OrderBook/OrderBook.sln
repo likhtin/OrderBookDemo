@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderBook", "OrderBook.csproj", "{560C91ED-4200-4019-B52F-3EF7E88D4248}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderBookTestConsole", "..\OrderBookTestConsole\OrderBookTestConsole.csproj", "{B8CDD6FB-8D13-4F8E-AED8-A937523D92D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{560C91ED-4200-4019-B52F-3EF7E88D4248}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{560C91ED-4200-4019-B52F-3EF7E88D4248}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{560C91ED-4200-4019-B52F-3EF7E88D4248}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{560C91ED-4200-4019-B52F-3EF7E88D4248}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8CDD6FB-8D13-4F8E-AED8-A937523D92D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8CDD6FB-8D13-4F8E-AED8-A937523D92D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8CDD6FB-8D13-4F8E-AED8-A937523D92D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8CDD6FB-8D13-4F8E-AED8-A937523D92D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
